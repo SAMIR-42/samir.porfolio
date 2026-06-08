@@ -13,7 +13,7 @@
 
 ◈ Hello World 👋
 
-I'm Vinesh, a Full Stack Developer passionate about transforming ideas into practical web products.
+I'm SAMIR, a Full Stack Developer passionate about transforming ideas into practical web products.
 
 I enjoy building applications that combine:
 
@@ -78,9 +78,7 @@ Future 🚀
 
 ◈ About Me
 
-Name          : Vinesh
-
-Education     : B.Sc Computer Science
+Name          : SAMIR
 
 Role          : Full Stack Developer
 
