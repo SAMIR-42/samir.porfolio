@@ -1,265 +1,164 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,20:1e293b,45:4f46e5,70:7c3aed,100:06b6d4&height=280&section=header&text=SAMIR%20DEV&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=62&descColor=e0f2fe"/><br/><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Building+Products+That+Solve+Real+Problems;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+Node.js;Always+Learning+Always+Building;Turning+Ideas+Into+Reality"/><br/><br/>
+<div align="center">
 
-<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e293b,50:2563eb,75:7c3aed,100:06b6d4&height=260&section=header&text=S∆MIR&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Product%20Builder%20•%20Problem%20Solver&descAlignY=62&descColor=e0f2fe"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+Products+That+Solve+Real+Problems;Full+Stack+Web+Developer;HTML+•+CSS+•+JavaScript+•+Node.js;Creating+Ideas+Into+Reality;Always+Learning+Always+Building"/>
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/B.Sc-Computer%20Science-2563eb?style=for-the-badge&labelColor=111827"/>
 <img src="https://img.shields.io/badge/FULLSTACK-DEVELOPER-8b5cf6?style=for-the-badge&labelColor=111827"/>
 <img src="https://img.shields.io/badge/PRODUCT-BUILDER-06b6d4?style=for-the-badge&labelColor=111827"/>
 <img src="https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-22c55e?style=for-the-badge&labelColor=111827"/>
-</p><br/>👨‍💻 Developer • Builder • Creator
 
-🚀 Building Real Products, Not Just Projects
-
-</div>---
-
-◈ Hello World 👋
-
-I'm SAMIR, a Full Stack Developer passionate about transforming ideas into practical web products.
-
-I enjoy building applications that combine:
-
-🎨 Beautiful UI
-
-⚡ Fast Performance
-
-🧠 Smart Logic
-
-🔐 Security
-
-🚀 Real World Value
-
-Instead of following endless tutorials, I prefer building things people can actually use.
+</div>
 
 ---
 
-◈ Developer Journey
+# 👋 About Me
 
-2023
-│
-├── Started Learning Web Development
-│
-├── HTML
-├── CSS
-└── JavaScript
-│
-▼
+I'm **Samir**, a Full Stack Developer who enjoys building products that combine beautiful UI, backend logic, security and real-world usefulness.
 
-2024
-│
-├── Built Personal Projects
-├── Learned Responsive Design
-└── Started Backend Development
-│
-▼
+Instead of endlessly following tutorials, I prefer creating complete products from idea to deployment.
 
-2025
-│
-├── Node.js
-├── Express.js
-├── MySQL
-└── Full Stack Applications
-│
-▼
+### Current Focus
 
-2026
-│
-├── ParikshaHub
-├── uiVault
-├── FaceReveal
-├── Need-Fund
-└── Portfolio Expansion
-│
-▼
-
-Future 🚀
-│
-└── Bigger Products
+* 🚀 Full Stack Development
+* 🎨 Premium UI/UX
+* ⚡ Performance Optimization
+* 🔐 Secure Web Applications
+* 🏗️ Product Development
 
 ---
 
-◈ About Me
+# 🛠️ Tech Stack
 
-Name          : SAMIR
+### Frontend
 
-Role          : Full Stack Developer
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 
-Focus         : Web Applications
+### Backend
 
-Speciality    : Building Complete Products
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
-Learning      : Every Day
+### Database
 
----
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
-◈ Tech Arsenal
+### Tools
 
-<div align="center">Category| Technologies
-🎨 Frontend| HTML5, CSS3, JavaScript
-⚡ UI/UX| Responsive Design, Animations
-🧠 Backend| Node.js, Express.js
-🗄️ Database| MySQL
-🔐 Security| bcrypt, Sessions
-🚀 Deployment| Render, GitHub
-🛠️ Tools| VS Code, Git, GitHub
-
-</div>---
-
-◈ Skill Levels
-
-HTML           ████████████████████ 95%
-
-CSS            ██████████████████   90%
-
-JavaScript     █████████████████    85%
-
-Node.js        ███████████████      80%
-
-Express.js     ███████████████      80%
-
-MySQL          ██████████████       75%
-
-UI Design      █████████████████    85%
-
-Problem Solving█████████████████    90%
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 ---
 
-◈ Featured Projects
+# 🚀 Featured Products
 
-🛡️ ParikshaHub
+### 🛡️ ParikshaHub
 
-Secure Online MCQ Examination Platform
+Secure Anti-Cheat Online Examination Platform
 
-Features:
-
-Anti-Cheat Engine
-
-QR Exam Sharing
-
-Payment Integration
-
-Teacher Dashboard
-
-PWA Support
-
-Result Analytics
+* Anti-Cheat Engine
+* QR Exam Sharing
+* Cashfree Payments
+* Teacher Dashboard
+* PWA Support
 
 ---
 
-🎨 uiVault
-
-Premium UI Component Library
-
-Features:
-
-Live Preview
-
-Copy Ready Code
-
-Premium Components
-
-Frontend Focused
-
-Developer Friendly
-
----
-
-🤖 FaceReveal
+### 🤖 FaceReveal
 
 AI Inspired Personality Experience
 
-Features:
-
-Face Detection
-
-Interactive UI
-
-Premium Unlock System
-
-Mobile First Design
+* Face Detection
+* Interactive Results
+* Premium Unlock Flow
+* Cashfree Integration
+* Mobile First Design
 
 ---
 
-🏥 Need-Fund
+### 🏥 Need-Fund
 
-Medical Crowdfunding Platform
+Trusted Medical Crowdfunding Platform
 
-Features:
-
-Fundraising Campaigns
-
-Donation Workflow
-
-Modern User Experience
-
-Real World Impact
+* Verified Cases
+* Admin Review System
+* Anti-Fraud Workflow
+* Social Impact Product
 
 ---
 
-🧒 KidKart
+### 🎨 uiVault
 
-Kids Shopping Experience
+Premium Frontend Component Library
 
-Features:
-
-Fun Design
-
-Colorful Interface
-
-Interactive Shopping
-
-Child Friendly UX
+* Ready Components
+* Live Preview
+* Copy-Paste Code
+* Developer Friendly
 
 ---
 
-🏫 Institute Management System
+### 🍔 Rohit Fast Food
 
-Educational Management Platform
+Real Business Ordering Platform
 
-Features:
-
-Student Management
-
-Administration Tools
-
-Data Organization
-
-Practical Workflow
+* Admin Dashboard
+* Menu Management
+* Order Workflow
+* Secure Authentication
 
 ---
 
-◈ Project Ecosystem
+# 📈 Developer Journey
 
-                   👨‍💻 VINESH
+```text
+2023 → Started Web Development
 
-                         │
+HTML
+CSS
+JavaScript
 
- ┌─────────────┬─────────┼─────────┬─────────────┐
+        ↓
 
- ▼             ▼         ▼         ▼             ▼
+2024 → Frontend Projects
 
-🛡️          🎨        🤖       🏥          🏫
+Responsive Design
+Animations
+UI Development
 
-ParikshaHub  uiVault  FaceReveal NeedFund  Institute
+        ↓
 
- └────────────── Product Builder ───────────────┘
+2025 → Backend Development
+
+Node.js
+Express.js
+MySQL
+Authentication
+
+        ↓
+
+2026 → Product Building
+
+ParikshaHub
+FaceReveal
+Need-Fund
+uiVault
+
+        ↓
+
+Future 🚀
+
+Bigger Products
+Better Systems
+Startup-Level Applications
+```
 
 ---
 
-◈ Development Philosophy
-
-«I don't build projects just to fill a portfolio.»
-
-I build products to solve problems.
-
-Every application teaches me something new.
-
-Every challenge improves my skills.
-
-Every bug becomes experience.
-
----
-
-◈ What Makes Me Different?
+# 🏆 What Makes Me Different
 
 ✅ Product Thinking
 
@@ -267,95 +166,62 @@ Every bug becomes experience.
 
 ✅ Full Stack Knowledge
 
-✅ UI + Backend Understanding
-
 ✅ Real World Projects
+
+✅ Security Focus
 
 ✅ Continuous Learning
 
-✅ Practical Problem Solving
+✅ Problem Solving Mindset
 
 ---
 
-◈ Current Focus
+# 📊 GitHub Analytics
 
-🚀 Full Stack Development
+<div align="center">
 
-🚀 Better UI/UX Design
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=samir-42&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-🚀 Scalable Applications
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=samir-42&theme=tokyonight&hide_border=true"/>
 
-🚀 Product Development
+<br/><br/>
 
-🚀 Performance Optimization
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir-42&layout=compact&theme=tokyonight&hide_border=true"/>
 
-🚀 Modern Web Technologies
-
----
-
-◈ Goals
-
-Short Term
-
-Build Better Products
-
-Improve Backend Skills
-
-Contribute To Open Source
-
-Grow Developer Portfolio
-
-Long Term
-
-Launch Successful Products
-
-Build Startup-Level Applications
-
-Help Solve Real Problems Through Technology
+</div>
 
 ---
 
-◈ GitHub Stats
+# ☕ Beyond Coding
 
-<div align="center"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/></div><br/><div align="center"><img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/></div>---
-
-◈ Beyond Coding
-
-☕ Chai + Coding
-
-🎯 Building Ideas
-
-📚 Continuous Learning
-
-🚀 Product Development
-
-💡 Problem Solving
+* 💡 Turning Ideas Into Products
+* 🎯 Solving Real Problems
+* 🚀 Building Side Projects
+* 📚 Continuous Learning
+* ☕ Chai + Debugging Sessions
 
 ---
 
-◈ Let's Connect
+# 🎯 Personal Motto
 
-<div align="center">Open To Collaboration & Opportunities
+<div align="center">
 
-Building.
-Learning.
-Improving.
-Repeating.
+### "Start Small. Build Consistently. Improve Daily."
 
-</div>---
+</div>
 
-◈ Personal Motto
+---
 
-<div align="center">"Start Small. Build Consistently. Improve Daily."
+<div align="center">
 
-</div>---
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,25:2563eb,50:4f46e5,75:7c3aed,100:0f172a&height=140&section=footer"/>
 
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,25:2563eb,50:4f46e5,75:7c3aed,100:0f172a&height=170&section=footer"/>👨‍💻 S∆MIR
+### 👨‍💻 S∆MIR
 
-Full Stack Developer • Builder • Problem Solver
+Full Stack Developer • Product Builder • Problem Solver
 
-⭐ Thanks For Visiting My Portfolio
+⭐ Thanks for visiting my profile
 
-🚀 The Journey Has Just Started
+🚀 The journey has just started
 
 </div>
